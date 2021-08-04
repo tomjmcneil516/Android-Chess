@@ -1,4 +1,4 @@
-package com.example.calculator;
+package com.example.chessapp;
 
 
 import android.graphics.Bitmap;

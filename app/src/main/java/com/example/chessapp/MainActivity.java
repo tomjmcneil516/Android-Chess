@@ -1,4 +1,4 @@
-package com.example.calculator;
+package com.example.chessapp;
 
 import androidx.appcompat.app.AppCompatActivity;
 
